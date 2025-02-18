@@ -106,7 +106,4 @@
 - Git, GitHub, Jira, Postman, Figma
 - 코드 리뷰 및 품질 관리 (ESLint, Webpack)
 
----
-
-## **📌 Contact Information**
-- **Email:** ujung27@gmail.com  
+--- 
